@@ -6,7 +6,8 @@
     <language>fr</language>
     <author>Les Aventuriers du Livre</author>
     <explicit>no</explicit>
-    <category>Books</category>
+    <category>Audiobook</category>
+    <itunes:category text="Audiobook">
     <image>
       <url>https://dl.dropboxusercontent.com/scl/fi/w9rf9mxjua1wlio5y3cwo/logo.jpg?rlkey=r9tcftnj4n58r5kunxkmvgg53&amp;st=6s0ak53b&amp;dl=1</url>
       <title>Les Aventuriers du Livre</title>
@@ -18,6 +19,8 @@
       <enclosure url="https://dl.dropboxusercontent.com/scl/fi/ssg11uaoysdryg493npta/Le-r-veil-Laurent-Gounelle.mp3?rlkey=bmtv9bmq1vtq67kk79ieanxxr&amp;st=girbn42v&amp;dl=1" length="401456128" type="audio/mpeg"/>
       <pubDate>Mon, 12 Aug 2023 00:00:00 GMT</pubDate>
       <duration>02:47:24</duration>
+      <guid>ssg11uaoysdryg493npta</guid>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
 
   </channel>
