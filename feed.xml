@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Les Aventuriers du Livre</title>
+    <description>Plongez dans un univers magique où les histoires prennent vie ! "Les Aventuriers du Livre" est le podcast familial parfait pour partager des moments inoubliables autour de livres audio captivants. Chaque épisode est une aventure unique, remplie de personnages fascinants, de mondes imaginaires et de récits palpitants.</description>
+    <language>fr</language>
+    <item>
+      <title>Le Réveil</title>
+      <description>Tom, un jeune ingénieur, se retrouve confronté dans son pays à une situation inquiétante qui sème la peur dans la population. Dans ce contexte inédit, des mesures contraignantes sont adoptées. Laurent Gounelle porte un regard philosophique sur nos existences qui nous donne à réfléchir.</description>
+      <enclosure url="https://www.icloud.com/iclouddrive/078BdFQA8aRfSkmnwcZnhko1g#Le_re%CC%81veil_-_Laurent_Gounelle" type="audio/mp3"/>
+    </item>
+    <!-- Ajoutez d'autres épisodes ici -->
+  </channel>
+</rss>
