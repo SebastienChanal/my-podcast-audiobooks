@@ -21,6 +21,7 @@
       <itunes:duration>02:47:24</itunes:duration>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
+      <guid>3e70dcbe-0e6a-45b9-98dd-37c60fa6cac3</guid>
     </item>
 
     <item>
@@ -32,6 +33,7 @@
       <itunes:duration>00:24:23</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>1</itunes:episode>
+      <guid>7b85c829-9bb9-49ef-a08c-16c00f8ac5c8</guid>
     </item>
     <item>
       <title>Chap. 2 – L’Appel de Cthulhu</title>
@@ -42,6 +44,7 @@
       <itunes:duration>00:36:41</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>2</itunes:episode>
+      <guid>9e138469-83c5-4153-a339-9dab5cc2ea6d</guid>
     </item>
     <item>
       <title>Chap. 3 – L’Appel de Cthulhu</title>
@@ -52,6 +55,7 @@
       <itunes:duration>00:38:25</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>3</itunes:episode>
+      <guid>e776ab8c-62f0-4ee9-ba91-b948eb7308c2</guid>
     </item>
 
   </channel>
