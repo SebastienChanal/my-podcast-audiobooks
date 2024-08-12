@@ -19,18 +19,39 @@
       <enclosure url="https://dl.dropboxusercontent.com/scl/fi/ssg11uaoysdryg493npta/Le-r-veil-Laurent-Gounelle.mp3?rlkey=bmtv9bmq1vtq67kk79ieanxxr&amp;st=girbn42v&amp;dl=1" length="401456128" type="audio/mpeg"/>
       <pubDate>Mon, 12 Aug 2023 22:45:00 GMT</pubDate>
       <itunes:duration>02:47:24</itunes:duration>
-      <itunes:season>Le Réveil</itunes:season>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
     </item>
 
     <item>
       <title>Chap. 1 – L’Appel de Cthulhu</title>
       <description>Boston, 1926. Suite au décès, dans des circonstances étranges, de son grand-oncle, Francis Thurston découvre dans les documents dont il hérite l'existence d'une secte vouant un culte à une créature innommable, endormie depuis des millions d'années.</description>
       <itunes:author>H. P. Lovecraft</itunes:author>
-      <enclosure url="https://drive.google.com/uc?export=open&amp;id=1lh7XjaBc5lB_8aaM0uk9-jYLQGz_soWe" length="401456128" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=open&amp;id=1lh7XjaBc5lB_8aaM0uk9-jYLQGz_soWe" length="5500000" type="audio/mpeg"/>
       <pubDate>Mon, 12 Aug 2023 22:45:00 GMT</pubDate>
       <itunes:duration>00:24:23</itunes:duration>
-      <itunes:season>L’Appel de Cthulhu</itunes:season>
+      <itunes:season>2</itunes:season>
       <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Chap. 2 – L’Appel de Cthulhu</title>
+      <description>Boston, 1926. Suite au décès, dans des circonstances étranges, de son grand-oncle, Francis Thurston découvre dans les documents dont il hérite l'existence d'une secte vouant un culte à une créature innommable, endormie depuis des millions d'années.</description>
+      <itunes:author>H. P. Lovecraft</itunes:author>
+      <enclosure url="https://drive.google.com/uc?export=open&amp;id=1SDZzUZf8oNhbxQtjwMQ18DNpemmRvrLA" length="8375000" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Aug 2023 22:45:00 GMT</pubDate>
+      <itunes:duration>00:36:41</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Chap. 3 – L’Appel de Cthulhu</title>
+      <description>Boston, 1926. Suite au décès, dans des circonstances étranges, de son grand-oncle, Francis Thurston découvre dans les documents dont il hérite l'existence d'une secte vouant un culte à une créature innommable, endormie depuis des millions d'années.</description>
+      <itunes:author>H. P. Lovecraft</itunes:author>
+      <enclosure url="https://drive.google.com/uc?export=open&amp;id=1AZPTUiYx3EZtuDt9IbCbK4UgFt9RQ6a1" length="8750000" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Aug 2023 22:45:00 GMT</pubDate>
+      <itunes:duration>00:38:25</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
 
   </channel>
