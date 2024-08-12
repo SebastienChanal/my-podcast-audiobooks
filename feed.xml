@@ -6,15 +6,15 @@
     <language>fr</language>
     <itunes:author>Les Aventuriers du Livre</itunes:author>
     <itunes:summary>Plongez dans un univers magique où les histoires prennent vie ! "Les Aventuriers du Livre" est le podcast familial parfait pour partager des momen</itunes:summary>
-<!--     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Books"/> -->
-    <url>"https://drive.google.com/uc?export=view&id=1DD0EETXQsZVF-aupRBBq0uqcmUQnbE98"</url>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Books"/>
+    <itunes:image href="https://drive.google.com/uc?export=view&id=1DD0EETXQsZVF-aupRBBq0uqcmUQnbE98"/>
     <item>
       <title>Le Réveil</title>
       <description>Tom, un jeune ingénieur, se retrouve confronté dans son pays à une situation inquiétante qui sème la peur dans la population. Dans ce contexte inédit, des mesures contraignantes sont adoptées. Laurent Gounelle porte un regard philosophique sur nos existences qui nous donne à réfléchir.</description>
-      <enclosure url="https://www.icloud.com/iclouddrive/078BdFQA8aRfSkmnwcZnhko1g#Le_re%CC%81veil_-_Laurent_Gounelle" type="audio/mpeg"/>
+      <enclosure url="https://drive.google.com/uc?export=view&id=1f7nPx3W0ZJQbsBJXhpbxojP6_IzkJOrU" type="audio/mpeg"/>
       <pubDate>Mon, 12 Aug 2023 00:00:00 GMT</pubDate>
-<!--       <itunes:duration>02:47:24</itunes:duration> -->
+      <itunes:duration>02:47:24</itunes:duration>
     </item>
   </channel>
 </rss>
