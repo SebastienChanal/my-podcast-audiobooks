@@ -6,8 +6,8 @@
     <language>fr</language>
     <itunes:author>Les Aventuriers du Livre</itunes:author>
     <itunes:summary>Plongez dans un univers magique où les histoires prennent vie ! "Les Aventuriers du Livre" est le podcast familial parfait pour partager des momen</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Books"/>
+<!--     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Books"/> -->
     <url>"https://drive.google.com/uc?export=view&id=1DD0EETXQsZVF-aupRBBq0uqcmUQnbE98"</url>
     <item>
       <title>Le Réveil</title>
