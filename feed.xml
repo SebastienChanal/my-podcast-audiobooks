@@ -12,7 +12,6 @@
       <title>Les Aventuriers du Livre</title>
     </image>
 
-    <!-- Le réveil -->
     <item>
       <title>Le Réveil</title>
       <description>Tom, un jeune ingénieur, se retrouve confronté dans son pays à une situation inquiétante qui sème la peur dans la population. Dans ce contexte inédit, des mesures contraignantes sont adoptées. Laurent Gounelle porte un regard philosophique sur nos existences qui nous donne à réfléchir.</description>
@@ -24,7 +23,6 @@
       <itunes:episode>1</itunes:episode>
     </item>
 
-    <!-- L’Appel de Cthulhu -->
     <item>
       <title>Chap. 1 – L’Appel de Cthulhu</title>
       <description>Boston, 1926. Suite au décès, dans des circonstances étranges, de son grand-oncle, Francis Thurston découvre dans les documents dont il hérite l'existence d'une secte vouant un culte à une créature innommable, endormie depuis des millions d'années.</description>
